@@ -1,4 +1,4 @@
-Repository name :  csdt2223ki46kozar10 Tag: Labs_0p1_WW223611 Author : Mykola Kozar Task #1 Task details:
+Repository name :  csdt2223ki46kozar10 Tag: Labs_0p1_WW221206 Author : Mykola Kozar Task #1 Task details:
 
 1.	Create a github repo with the name “csdt<student's name><student's number>”, main branch develop. YY1 – Start studding year YY2 – End studding year For example: 2019-2020
 -> 1920 Full example csdt1920ki47spitzeras03
